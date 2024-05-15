@@ -23,7 +23,7 @@ In the [Images](subdirectory/example.txt) included in this repository you will f
 
 # Data Engineering 
 
-In the PGAdmin file included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
+In the [PGAdmin](subdirectory/example.txt) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
 
 In the Emp_schema.sql file you will find the following: 
 
@@ -44,7 +44,7 @@ In the Emp_schema.sql file you will find the following:
 
 # Data Analysis: 
 
-In the PGAdmin file included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
+In the PGAdmin](subdirectory/example.txt) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
 
 In the  Emp_SQL.sql file the following has been completed: 
 
