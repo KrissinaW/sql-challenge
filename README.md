@@ -44,9 +44,9 @@ In the [Emp_schema.sql](PGAdmin/Emp_SQL.sql) file you will find the following:
 
 # Data Analysis: 
 
-In the [PGAdmin](PGAdmin) included in this repository you will find the [Emp_schema.sql](PGAdmin/Emp_SQL.sql) file and also the Emp_SQL.sql file. 
+In the [PGAdmin](PGAdmin) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
 
-In the  Emp_SQL.sql file the following has been completed: 
+In the [Emp_schema.sql](PGAdmin/Emp_SQL.sql) file the following has been completed: 
 
 - List the employee number, last name, first name, sex, and salary of each employee.
 
