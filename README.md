@@ -1,4 +1,7 @@
 # SQL-Challenge
+
+![Untitled-design-16](https://github.com/KrissinaW/sql-challenge/assets/162597320/a75a8286-8355-4760-bab4-38e77c0eb072)
+
 I will perform data modeling, data engineering, and data analysis, respectively.
 
 # Background
