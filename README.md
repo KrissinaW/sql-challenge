@@ -12,7 +12,7 @@ For this project, I will design the tables to hold the data from the CSV files, 
 
 # Data Modeling 
 
-In the [Images](subdirectory/example.txt) included in this repository you will find the: 
+In the (Images) included in this repository you will find the: 
 
 - Entity Relationship Diagram (ERD) for all tables.
   
