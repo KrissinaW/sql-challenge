@@ -27,3 +27,9 @@ In the  Emp_SQL.sql file the following has been completed:
 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+  # Resources Used:
+
+ ChatGPT by OpenAI, version GPT-4, accessed May 2024. Available from: https://www.openai.com/chatgpt 
+
+ -Chat GPT 4 was used in helping me fix errors that were coming up in my SQL Query.
