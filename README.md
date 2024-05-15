@@ -1,6 +1,7 @@
 # SQL-Challenge
 
 ![11766091](https://github.com/KrissinaW/sql-challenge/assets/162597320/b35e4661-2d3d-4000-a1f2-99c6cb1bf9d8)
+![9544010](https://github.com/KrissinaW/sql-challenge/assets/162597320/70203fb8-8377-440e-9f0b-fcf862f0f0b0)
 
 
 I will perform data modeling, data engineering, and data analysis, respectively.
