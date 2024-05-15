@@ -1,6 +1,7 @@
 # SQL-Challenge
 
-![Untitled-design-16](https://github.com/KrissinaW/sql-challenge/assets/162597320/a75a8286-8355-4760-bab4-38e77c0eb072)
+![11766091](https://github.com/KrissinaW/sql-challenge/assets/162597320/b35e4661-2d3d-4000-a1f2-99c6cb1bf9d8)
+
 
 I will perform data modeling, data engineering, and data analysis, respectively.
 
@@ -8,6 +9,38 @@ I will perform data modeling, data engineering, and data analysis, respectively.
 It’s been two weeks since I was hired as a new data engineer at Pewlett Hackard (a fictional company). My first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 For this project, I will design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. 
+
+# Data Modeling 
+
+In the Images file included in this repository you will find the: 
+
+- Entity Relationship Diagram (ERD) for all tables.
+  
+- Screen shot displaying the Schema Pane or Table List.
+
+  - I included this to provide a structured overview of all the tables defined in the database diagram, along with their columns, primary keys, foreign keys, and relationships to other tables.
+
+
+# Data Engineering 
+
+In the PGAdmin file included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
+
+In the Emp_schema.sql file you will find the following: 
+
+- All required columns are defined for each table 
+
+- Columns set to the correct data type 
+
+- Primary Keys set for each table
+  
+- Correctly referenced related tables 
+
+- Tables are correctly related using Foreign Keys 
+
+- Correctly uses NOT NULL condition on necessary columns 
+
+- Accurately defined value lengths for columns
+
 
 # Data Analysis: 
 
