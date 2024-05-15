@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-Challenge
 I will perform data modeling, data engineering, and data analysis, respectively.
 
 # Background
