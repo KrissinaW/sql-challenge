@@ -25,7 +25,7 @@ In the [Images](Images) file included in this repository you will find the:
 
 In the [PGAdmin](PGAdmin) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
 
-In the Emp_schema.sql file you will find the following: 
+In the [Emp_schema.sql](PGAdmin/Emp_SQL.sql) file you will find the following: 
 
 - All required columns are defined for each table 
 
@@ -44,7 +44,7 @@ In the Emp_schema.sql file you will find the following:
 
 # Data Analysis: 
 
-In the [PGAdmin](PGAdmin) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
+In the [PGAdmin](PGAdmin) included in this repository you will find the [Emp_schema.sql](PGAdmin/Emp_SQL.sql) file and also the Emp_SQL.sql file. 
 
 In the  Emp_SQL.sql file the following has been completed: 
 
