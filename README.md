@@ -12,7 +12,7 @@ For this project, I will design the tables to hold the data from the CSV files, 
 
 # Data Modeling 
 
-In the [Images](subdirectory/example.txt) included in this repository you will find the: 
+In the [Images](Images) file included in this repository you will find the: 
 
 - Entity Relationship Diagram (ERD) for all tables.
   
@@ -23,9 +23,9 @@ In the [Images](subdirectory/example.txt) included in this repository you will f
 
 # Data Engineering 
 
-In the [PGAdmin](subdirectory/example.txt) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
+In the [PGAdmin](PGAdmin) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
 
-In the Emp_schema.sql file you will find the following: 
+In the [Emp_schema.sql](PGAdmin/Emp_schema.sql) file you will find the following: 
 
 - All required columns are defined for each table 
 
@@ -44,9 +44,9 @@ In the Emp_schema.sql file you will find the following:
 
 # Data Analysis: 
 
-In the [PGAdmin](subdirectory/example.txt) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
+In the [PGAdmin](PGAdmin) included in this repository you will find the Emp_schema.sql file and also the Emp_SQL.sql file. 
 
-In the  Emp_SQL.sql file the following has been completed: 
+In the [Emp_SQL.sql](PGAdmin/Emp_SQL.sql) file the following has been completed: 
 
 - List the employee number, last name, first name, sex, and salary of each employee.
 
